@@ -1,7 +1,10 @@
-# silly-name-generator
+# Silly name generator
 Small CLI program that generates silly names in Python
 
-# Usage
+## Usage
 ```
 python3 silly-name-gen.py
 ```
+
+## Required Libraries
+* pyinputplus 
